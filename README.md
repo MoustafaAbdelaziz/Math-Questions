@@ -1,6 +1,8 @@
 # Math-Questions
 A Math Questions Game with levels from easy to hard
 
+### • make sure that you put the header file "MyLib.h" in the same project folder to be able to run the game.
+
 ### Preview of the math game:-
 
 ![image](https://user-images.githubusercontent.com/16564006/218278793-fdc0f20a-2ff1-4fa4-8c73-3394a131a418.png)
